@@ -20,6 +20,20 @@ PyTest = is a testing framework that allows users to write test codes using Pyth
 This project is Build in Python code Functionality test, and it has multiple functions used to make the codes.
 while making this project I made manual STD before I made the manual testing using Execl to write the test cases.
 in this project I try to check AtidStore on 5 main task those are listed below:
+This project is Build in Python code Functionality test, and it has multiple functions used to make the codes.
+I used Excel to write the test cases for manual testing.
+In this project I try to check on 3 parts those are listed below:
+--1.Facebook Registration/Signup
+--2.Facebook Login
+--3.Facebook Forget-password
+By using this I made 2 directory files this are:
+--1.Test (In this there are 3 py file)
+--2.BaseTest (in this there is 3 py file)
+to run this test I used Chrome open-source web browser to Run my codes using Pytest.
+the signup/registration part there are 1 valid functional test and 6 Invalid functional tests
+the Login part there are 1 valid functional test and 4 Invalid functional tests
+the Forget-password part there are 1 valid functional test and 2 Invalid functional tests
+Totaly there are 15 functional tests
 1.Store Catagory
 2.Men Catagory
 3.Women Catagory
